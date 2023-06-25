@@ -10,7 +10,6 @@ using namespace std;
 #define LEFT    3
 #define RIGHT   1
 #define MAX_SHOTS 3
-int shot=MAX_SHOTS;
 
 /*string to_str(int x)
 {
